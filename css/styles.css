@@ -1,0 +1,181 @@
+body{
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+.col-lg-6 h1{
+    font-family: "Montserrat-Black", Arial, Helvetica, sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0px 18px;
+}
+
+.nav-link{
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+
+/* Download Buttons */
+
+
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+
+/* Title Image */
+
+#title{
+    background-color: #ff4c68 ;
+    color: #fff;
+    padding: 0 0 7%;
+}
+
+.title-img{
+    width: 20%;
+    position: absolute;
+    transform: rotate(25deg);
+}
+
+
+/* Features */
+
+#features{
+    padding: 3% 0;
+    background:white;
+    position: relative;
+    z-index: 2;
+}
+
+.col-lg-4{
+    text-align: center;
+    padding: 5%;
+}
+
+.col-lg-4 h3{
+    font-weight: bold;
+}
+
+.col-lg-4 p{
+    color: #8f8f8f;
+}
+
+.fa-4x{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.fa-4x:hover{
+    color: #ff4c68;
+}
+
+
+/* Testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding: 3% 0;
+}
+
+#testimonials h2{
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials img{
+    width: 15%;
+    margin: 1rem;
+    border-radius: 100%;
+}
+
+
+/* Press */
+
+#press{
+    background-color: #ef8172;
+}
+
+#press img{
+    width: 20%;
+    margin: 0 0 50px 50px;
+}
+
+
+/* Pricing */
+
+#pricing{
+    margin: 4% 0 5% 0;
+}
+
+.pricing-header{
+    margin-bottom: 4rem;
+}
+
+.pricing-header h1{
+    font-weight: 700;
+}
+
+.pricing-btn{
+    background-color: #ff4c68;
+}
+
+.pricing-btn:hover{
+    background-color: #ef8172;
+}
+
+
+/* Call To Action */
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5% 0 0% 0;
+}
+
+#cta h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+/* Footer */
+
+.ftr-icon{
+    text-align: center;
+    padding: 3% 0 1% 0;
+}
+
+.fa-2x{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#footer{
+    text-align: center;
+    color: #8f8f8f;
+    margin-bottom: 2rem;
+}
